@@ -24,7 +24,7 @@
 
 	    }
         ],
-        "image": "liefeld/r32",
+        "image": "genepattern/docker-r-3-2",
         "memory": 200,
         "mountPoints": [],
         "ulimits": [],
