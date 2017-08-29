@@ -9,24 +9,6 @@
             "Ref::exe1"
         ],
         "jobRoleArn": "arn:aws:iam::718039241689:role/BATCH-EFS-ROLE",
-        "environment": [
-             {
-                "name": "GP_METADATA_DIR",
-                "value": "./.gp_metadata"
-            },            {
-                "name": "STDOUT_FILENAME",
-                "value": "./.gp_metadata/stdout.txt"
-            },
-            {
-                "name": "STDERR_FILENAME",
-                "value": "./.gp_metadata/stderr.txt"
-            },
-	    {
-                "name": "R_LIB",
-                "value": "/genepattern-server/Rlibraries/R32/rlibs"
-
-	    }
-        ],
         "image": "genepattern/docker-r-3-2",
         "memory": 200,
         "mountPoints": [],
