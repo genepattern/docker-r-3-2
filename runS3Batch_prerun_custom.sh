@@ -1,3 +1,4 @@
+# copyright 2017-2018 Regents of the University of California and the Broad Institute. All rights reserved.
 
 : ${R_LIBS_S3=/genepattern-server/Rlibraries/R325/rlibs}
 export R_LIBS=/usr/local/lib/R/site-library

@@ -1,3 +1,4 @@
+# copyright 2017-2018 Regents of the University of California and the Broad Institute. All rights reserved.
 local({
    # Set repositories as desired.  Here, we are using the R Studio cloud mirror for CRAN and the default Bioconductor site.
    # Note that these BioC settings are specific to the version of R: 
