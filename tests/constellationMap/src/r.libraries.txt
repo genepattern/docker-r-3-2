@@ -1,0 +1,13 @@
+CvM2SL2Test_2.0-1
+MASS_7.3-33
+calibrate_1.7.2
+getopt_1.20.0
+gmodels_2.15.4.1
+gtools_3.4.1
+maptools_0.8-30
+optparse_1.2.0
+parmigene_1.0.2
+plotrix_3.5-7
+rgl_0.93.996
+smacof_1.5-0
+verification_1.40
