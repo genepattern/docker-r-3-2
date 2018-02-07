@@ -23,7 +23,7 @@ load.packages <- function (libdir, patch.dir, server.dir, r.version)
   
   parent.dir <- paste(patch.dir, "rlib", r.version, sep="/")
   site.library <- paste(parent.dir, "site-library", sep="/")
-  
+  site.library <-"/usr/local/lib/R/site-library"  
   cat("\nLibrary dir: ",site.library)
   .libPaths(site.library)
   
