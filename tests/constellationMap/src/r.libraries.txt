@@ -2,7 +2,7 @@ CvM2SL2Test_2.0-1
 MASS_7.3-33
 calibrate_1.7.2
 getopt_1.20.0
-gmodels_2.15.4.1
+gmodels_2.16.2
 gtools_3.4.1
 maptools_0.8-30
 optparse_1.2.0

@@ -30,6 +30,8 @@ server.dir <- args[2]
 patch.dir <- args[3]
 javaexec <- args[4]
 
+print("libdir")
+print(libdir)
 print("server ")
 print(server.dir)
 print("patch ")

@@ -44,7 +44,7 @@ ENV R_HOME=/usr/local/lib64/R
 
 COPY runS3Batch_prerun_custom.sh /usr/local/bin/runS3Batch_prerun_custom.sh
 COPY runS3Batch_postrun_custom.sh /usr/local/bin/runS3Batch_postrun_custom.sh
-
+#COPY runLocalInstallPackages.sh /usr/local/bin/runLocal.sh
  
 CMD ["/usr/local/bin/runS3OnBatch.sh" ]
 

@@ -37,6 +37,7 @@ else
         echo "No R packages installed. $TASKLIB/r.package.info not found."
 fi
 
+echo "++++++++++++++++++++++++++ R LIBS INSTALLED< HANDING OVER TO MODULE CODE +++++++++++++++++++++++"
 
 cd $WORKING_DIR
 

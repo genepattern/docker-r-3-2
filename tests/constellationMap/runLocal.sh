@@ -3,4 +3,4 @@
 . runConfig.sh
 
 . ../../common/testing_scripts/runLocal.sh
-#. local.sh
+#. rl.sh
